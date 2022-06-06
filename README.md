@@ -2,8 +2,10 @@
 
 🛠 I can use...
 
+<img alt="Html" src ="https://img.shields.io/badge/HTML-#E34F26.svg?&style=for-the-badge&logo=HTML5h&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Html-#E34F26?style=for-the-badge&logo=<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>HTML5</title>
+
+                                                                                                                                                   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyoredm%2Fhyoredm&count_bg=%23AA01FF&title_bg=%23525053&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--
